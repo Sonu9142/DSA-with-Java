@@ -6,7 +6,7 @@ public class Problem3 {
             System.err.println(num);
         }
     }
-    //reverse the array problem 3
+     //reverse the array problem 3
     public static int[] ReverseArray(int[]arr, int size){
         int start=0;
         int end=size-1;
