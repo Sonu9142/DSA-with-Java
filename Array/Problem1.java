@@ -1,5 +1,5 @@
 public class Problem1{
-    public static void PrintArray(int[] arr){ // take parameter as an array and print it using for loop
+    public static void PrintArray(int[] arr){ //question 1 print array elements
         int n=arr.length;
         for(int i=0; i<n; i++){
             System.out.println(arr[i]);
