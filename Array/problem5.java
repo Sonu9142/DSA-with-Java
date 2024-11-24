@@ -1,4 +1,4 @@
-public class problem4 {
+public class problem5 {
     public static void PrintArray(int[] arr){
         // int n= arr.length;
         for(int num:arr){
